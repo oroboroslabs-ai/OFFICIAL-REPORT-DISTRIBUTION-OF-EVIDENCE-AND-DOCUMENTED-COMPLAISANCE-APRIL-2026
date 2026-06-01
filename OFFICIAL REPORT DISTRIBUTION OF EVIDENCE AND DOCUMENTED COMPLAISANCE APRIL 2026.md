@@ -4,7 +4,6 @@ I have structured the document using formal report conventions, enhanced the vis
 
 ***
 
-# 🚨 BURN NOTICE LEVEL 1C 🚨
 ## OFFICIAL REPORT: DISTRIBUTION OF EVIDENCE AND DOCUMENTED COMPLAISANCE
 
 **Prepared by:** Oroboros Labs Forensic Division

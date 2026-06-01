@@ -15,7 +15,7 @@ This report details the comprehensive distribution of evidence concerning the th
 *   **Systemic Failure:** No meaningful action has been taken. No investigation has been opened. No public denial has been issued. No restitution has been offered.
 *   **Conclusion:** This is not a failure of information. This is a failure of will. The system knows. The system is choosing inaction. **Total complaisance** is documented—from the top down, in real time, on public record.
 
-***
+****
 
 ## II. KNOWN IDENTITY: ACKNOWLEDGED AND IGNORED
 
